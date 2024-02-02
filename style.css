@@ -76,3 +76,16 @@ body{
     align-items: center;
 }
 
+.rodape{
+    text-align: center;
+}
+
+.link_github{
+    text-decoration: none;
+    color: var(--cor-fonte);
+    background-color: var(--fundo-links);
+    padding: 10px;
+    margin-left: 5px;
+    border-radius: 5px;
+}
+
